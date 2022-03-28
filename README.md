@@ -1,2 +1,0 @@
-# VRC_picture_divide_by_day
-使って何が起こっても自己責任で
